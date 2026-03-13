@@ -1,0 +1,8 @@
+{
+  "name": "YUR AI - Command Center",
+  "description": "High-fidelity neural command center for production, marketing, and data processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
